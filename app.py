@@ -1,3 +1,4 @@
+# KR2: Shulga
 import os
 import socket
 
